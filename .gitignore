@@ -1,0 +1,5 @@
+chatserver.iml
+target/**
+.idea/**
+.DS_Store
+log4j/**
